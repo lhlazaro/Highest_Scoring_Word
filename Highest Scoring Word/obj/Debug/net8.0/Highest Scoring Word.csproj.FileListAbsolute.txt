@@ -1,0 +1,14 @@
+C:\Users\Luis Hernandez\source\repos\Highest Scoring Word\Highest Scoring Word\bin\Debug\net8.0\Highest Scoring Word.exe
+C:\Users\Luis Hernandez\source\repos\Highest Scoring Word\Highest Scoring Word\bin\Debug\net8.0\Highest Scoring Word.deps.json
+C:\Users\Luis Hernandez\source\repos\Highest Scoring Word\Highest Scoring Word\bin\Debug\net8.0\Highest Scoring Word.runtimeconfig.json
+C:\Users\Luis Hernandez\source\repos\Highest Scoring Word\Highest Scoring Word\bin\Debug\net8.0\Highest Scoring Word.dll
+C:\Users\Luis Hernandez\source\repos\Highest Scoring Word\Highest Scoring Word\bin\Debug\net8.0\Highest Scoring Word.pdb
+C:\Users\Luis Hernandez\source\repos\Highest Scoring Word\Highest Scoring Word\obj\Debug\net8.0\Highest Scoring Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Hernandez\source\repos\Highest Scoring Word\Highest Scoring Word\obj\Debug\net8.0\Highest Scoring Word.AssemblyInfoInputs.cache
+C:\Users\Luis Hernandez\source\repos\Highest Scoring Word\Highest Scoring Word\obj\Debug\net8.0\Highest Scoring Word.AssemblyInfo.cs
+C:\Users\Luis Hernandez\source\repos\Highest Scoring Word\Highest Scoring Word\obj\Debug\net8.0\Highest Scoring Word.csproj.CoreCompileInputs.cache
+C:\Users\Luis Hernandez\source\repos\Highest Scoring Word\Highest Scoring Word\obj\Debug\net8.0\Highest Scoring Word.dll
+C:\Users\Luis Hernandez\source\repos\Highest Scoring Word\Highest Scoring Word\obj\Debug\net8.0\refint\Highest Scoring Word.dll
+C:\Users\Luis Hernandez\source\repos\Highest Scoring Word\Highest Scoring Word\obj\Debug\net8.0\Highest Scoring Word.pdb
+C:\Users\Luis Hernandez\source\repos\Highest Scoring Word\Highest Scoring Word\obj\Debug\net8.0\Highest Scoring Word.genruntimeconfig.cache
+C:\Users\Luis Hernandez\source\repos\Highest Scoring Word\Highest Scoring Word\obj\Debug\net8.0\ref\Highest Scoring Word.dll
